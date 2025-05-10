@@ -1,5 +1,9 @@
 {
-  "Username": "owner",
-  "Key": "k7D9fLpQ2VnYwGtHxJsR4zU6mK8cB3vA5yS7eW9iC1oM0dN2bX4qZ6",
-  "Created": "11/05/2025:10:18"
+  "users": {
+    "testuser": {
+      "Username": "testuser",
+      "Key": "k7D9fLpQ2VnYwGtHxJsR4zU6mK8cB3vA5yS7eW9iC1oM0dN2bX4qZ6",
+      "Created": "2023-05-15T12:00:00Z"
+    }
+  }
 }
